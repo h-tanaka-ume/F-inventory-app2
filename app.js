@@ -532,3 +532,4 @@ window.addEventListener("inventory-sync-error", () => {
 ensureCodeSettings();
 render();
 initializeRemoteSync();
+initializeAuth();
